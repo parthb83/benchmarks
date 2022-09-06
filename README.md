@@ -21,7 +21,7 @@ This was one of the most important part for the whole project. I had to create s
 - [#1798](https://github.com/cvxpy/cvxpy/pull/1798): Added benchmarks workflow to benchmark the master branch of cvxpy and upload results
 - [#1810](https://github.com/cvxpy/cvxpy/pull/1810): New workflow to make benchmarks to run on PR commits
 
-The final results after mergig the PR were published in html and hosted on `Github Pages`: [Link to page](https://cvxpy.github.io/benchmarks/).
+The final results after mergig the PR were published in html and hosted on **Github Pages**: [Link to page](https://cvxpy.github.io/benchmarks/).
 
 ### Post-Midterm Evaluation
 This period was used to add new benchmarks to the benchmarking suite of the repository. Some benchmarks added by me were:
